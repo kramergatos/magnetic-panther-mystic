@@ -1,8 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import Layout from '../../components/Global/Layout'
-import Count from '../../components/Examples/Counter'
 import styles from '../../styles/Article.module.css'
-function Counter() {
+function Article() {
   const [scroll, setScroll] = useState<number>(0)
   useEffect(() => {
     let progressBarHandler = () => {
@@ -43,4 +42,4 @@ function Counter() {
     </Layout>
   )
 }
-export default Counter
+export default Article
