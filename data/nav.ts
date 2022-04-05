@@ -17,6 +17,15 @@ export const dataNav = [
     target: "_self",
     title: "Counter"
   },
+  {
+    id: 3,
+    url: "/examples/article",
+    icon: "fa-solid fa-newspaper",
+    label: "Counter",
+    subtitle: null,
+    target: "_self",
+    title: "Progress Bar on Page Scroll"
+  }
 ]
 export const dataSocialLinks = [
   {

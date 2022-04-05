@@ -4,6 +4,7 @@ https://magneticpanthermystic.kramergatos.com
 
 ## Sample Code Projects Included
 - Simple Counter
+- Progress Bar on Page Scroll
 
 ## Tech Stack
 NodeJS, NextJS, ReactJS, TypeScript, HMTL5, CSS3
